@@ -1,0 +1,53 @@
+#send{
+    .first{
+        position: relative;
+        background-image: url(https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 300px;
+    }
+    .first1{
+        width: 450px;
+        height: 200px;
+        position: absolute;
+        top: 200px;
+        left: 200px;
+    }
+    .second{
+        position: relative;
+        background-image: url(https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-2.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 300px;
+    }
+    .second1{
+        width: 450px;
+        height: 200px;
+        position: absolute;
+        top: 200px;
+        left: 200px;
+    }
+    .third{
+        position: relative;
+        background-image: url(https://fiorello.qodeinteractive.com/wp-content/uploads/2018/05/h3-slider-background-3.jpg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        padding: 300px;
+    }
+    .third1{
+        width: 450px;
+        height: 200px;
+        position: absolute;
+        top: 200px;
+        left: 200px;
+    }
+    .carousel-inner{
+        h1{
+            font-size: 50px;
+            font-weight: 700;
+        }
+    }
+}
